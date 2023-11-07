@@ -1,0 +1,29 @@
+
+		<style type="text/css">
+			* {
+				font-family: Arial, Verdana, sans-serif;}
+			h1 {
+				font-family: "Courier New", Courier, monospace;
+				  position: fixed;
+				  top: 0px;
+				  left: 500px;
+				  width: 250px;
+				  margin: 0px;
+				  padding: 0px;
+				background-color: #efefef;}
+
+				  .home{
+				width: 250px;
+				color: blue;
+			}
+
+				.portfolio{
+					width: 250px;
+					background-color: #efefef
+				}
+				.adventure{
+					background-color: #2ecc71;
+					width: 200px;
+					height: 200px;
+				}
+		</style>
